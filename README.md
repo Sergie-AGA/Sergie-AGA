@@ -3,9 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/luciano-ciccariello/](https://www.linkedin.com/in/sergie-gerrits/))
 ### 👨‍💻 About
   I have been developing websites and web applications professionally
-  for about 4 years. I am a full-stack developer who uses the
-  JavaScript ecosystem to build projects, although I specialise in
-  front-end development. My stack of choice is React JS, Next JS,
+  for about 6 years. I am a full-stack developer who uses the
+  JavaScript ecosystem to build projects. I specialise in
+  front-end development, but I have explored a wide range of full-stack tools, even outside of JavaScript.
+  My stack of choice is React JS, Next JS,
   Tailwind and TypeScript for the front-end and Supabase or Node JS,
   TypeScript, Fastify JS, Prisma JS and PostgreSQL for the back-end.
 
@@ -51,8 +52,3 @@
   <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
   <br />
   <br />
-
-### 📊 Stats
-
-![Sergie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergie-AGA&show_icons=true&hide_rank=true&hide=issues,contribs&theme=transparent)
-![Sergie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergie-AGA&layout=compact&theme=transparent)
